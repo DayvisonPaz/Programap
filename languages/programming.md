@@ -10,21 +10,21 @@ Considerando o uso da tecnologia nos dias atuais, programação passou a ser ess
 ## PASSO 1. ALGORITMO E LOGICA DE PROGRAMAÇÃO
 Aprenda conceitos básicos, como lógica de programação e algoritmos, que vão criar os fundamentos para fazer programas mais estruturados e complexos. (abaixo conteudos que pode ajudar você )
 ## CURSOS
-* ESCOLA VIRTUAL BRADESCO
-* CURSO EM VIDEO
-* TIMTEC https://cursos.timtec.com.br/course/logicadeprogramacao/intro
+* [ESCOLA VIRTUAL BRADESCO ](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) (Certificado gratis)
+* [CURSO EM VIDEO](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) (Certificado pago)
+
 ### VIDEOS DO YOUTUBE
-* DEV APRENDER
-* CURSO EM VIDEO
-* CODER
+* [DEV APRENDER](https://youtu.be/iF2MdbrTiBM?t=41)
+* [CURSO EM VIDEO](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+* [CODER](https://youtu.be/O_Cc-Xzc0zM?t=113)
 	
 ### ARTIGOS
-* ALURA
-* DEVMEDIA
+* [ALURA](https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao?gclid=CjwKCAjw_tWRBhAwEiwALxFPoWYIfkz-Iqeu9rr2NhAR_kwmixKSZaawnjTFthTfOs36LTuDImok5hoC_5kQAvD_BwE)
+* [DEVMEDIA](https://www.devmedia.com.br/logica-de-programacao-introducao-a-algoritmos-e-pseudocodigo/37918)
 ### LIVROS
-*Introdução à Programação com Python (nilo ney)
-* ALGORITMO E LOGICA DE PROGRAMAÇÃO(MARCO FURLAN) {GRATIS}
-* Algoritmos: Lógica Para Desenvolvimento de Programação(JOSÉ AUGUSTO)
+* [Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=asc_df_8575227181/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=9530220262477389388&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20094&hvtargid=pla-811137648888&psc=1) (nilo ney)
+* [ALGORITMO E LOGICA DE PROGRAMAÇÃO(MARCO FURLAN)](https://www.amazon.com.br/Algoritmos-L%C3%B3gica-Programa%C3%A7%C3%A3o-Marco-Furlan/dp/8522128146/ref=asc_df_8522128146/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=3063560591491137113&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20094&hvtargid=pla-811137647728&psc=1) {GRATIS}
+* [ Algoritmos: Lógica Para Desenvolvimento de Programação(JOSÉ AUGUSTO)](https://www.amazon.com.br/Algoritmos-Desenvolvimento-Programa%C3%A7%C3%A3o-Computadores-Atualizada/dp/8536531452/ref=asc_df_8536531452/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=3063560591491137113&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20094&hvtargid=pla-811137648208&psc=1)
 ## PASSO 2. ESCOLHA UM CAMINHO (QUAL LINGUAGEM ESCOLHER?)
 Oque é uma linguagem de programação? como escolher? Escolha de uma linguagem de programação é uma das parte mais importantes dessa trilha, cada linguagem de programação possui suas vantagens e desvantagens.
 
@@ -39,13 +39,13 @@ JavaScript, PHP, Ruby,Python, Java, HTML CSS
 * Games (Criaçao de jogos): C++, C#, Java
 
 ## YOUTUBE 
-* O QUE É UMA LINGUAGEM DE PROGRAMAÇÃO?
-* COM QUAL LINGUAGEM COMEÇAR?
-* QUAL A MELHOR LINGUAGEM DE PROGRAMAÇÃO?
+* [O QUE É UMA LINGUAGEM DE PROGRAMAÇÃO?](https://www.youtube.com/watch?v=yT22ylhonfs&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica)
+* [COM QUAL LINGUAGEM COMEÇAR?](https://www.youtube.com/watch?v=xjPy4caPlEs&ab_channel=C%C3%B3digoFonteTV)
+* [QUAL A MELHOR LINGUAGEM DE PROGRAMAÇÃO?](https://www.youtube.com/watch?v=Uh-GNH-t89w&ab_channel=AluraCursosOnline)
 ## ARTIGOS
-* KENZIE
-* KINSTA
-* DEVMEDIA 
+* [KENZIE](https://kenzie.com.br/blog/linguagem-de-programacao-para-iniciantes/)
+* [KINSTA](https://kinsta.com/pt/blog/melhor-linguagem-de-programacao/)
+* [DEVMEDIA](https://www.tecmundo.com.br/produto/231257-6-linguagens-programacao-aprender-2022.htm) 
 
 ## PASSO 3. ESTUDAR A AREA ESCOLHIDA
  Após fazer a escolha do caminho que deseja seguir lhe recomendamos: 
