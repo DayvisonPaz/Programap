@@ -10,16 +10,16 @@ o que é preciso ter antes de programar?
 ## [APRENDA COMO COMEÇAR A PROGRAMAR AQUI](https://github.com/Dayvison45/Programap/blob/main/programming.md)
 
 # DECRIÇÃO & CONTEUDOS
-* [HTML E CSS](https://github.com/Dayvison45/Programap/blob/main/languagens/html%26css.md)
-* [JAVASCRIPT](https://github.com/Dayvison45/Programap/blob/main/languagens/javascript.md)
-* [PYTHON](https://github.com/Dayvison45/Programap/blob/main/languagens/python.md)
-* [RUBY](https://github.com/Dayvison45/Programap/blob/main/languagens/ruby.md)
-* [JAVA](https://github.com/Dayvison45/Programap/blob/main/languagens/java.md)	 
-* [PHP](https://github.com/Dayvison45/Programap/blob/main/languagens/php.md)
-* [C](https://github.com/Dayvison45/Programap/blob/main/languagens/c.md) 
-* [C++](https://github.com/Dayvison45/Programap/blob/main/languagens/c++.md) 
-* [C#](https://github.com/Dayvison45/Programap/blob/main/languagens/c#.md) 
-* [GO](https://github.com/Dayvison45/Programap/blob/main/languagens/go.md) 
+* [HTML E CSS](https://github.com/Dayvison45/Programap/blob/main/languages/html%26css.md)
+* [JAVASCRIPT](https://github.com/Dayvison45/Programap/blob/main/languages/javascript.md)
+* [PYTHON](https://github.com/Dayvison45/Programap/blob/main/languages/python.md)
+* [RUBY](https://github.com/Dayvison45/Programap/blob/main/languages/ruby.md)
+* [JAVA](https://github.com/Dayvison45/Programap/blob/main/languages/java.md)	 
+* [PHP](https://github.com/Dayvison45/Programap/blob/main/languages/php.md)
+* [C](https://github.com/Dayvison45/Programap/blob/main/languages/c.md) 
+* [C++](https://github.com/Dayvison45/Programap/blob/main/languages/c++.md) 
+* [C#](https://github.com/Dayvison45/Programap/blob/main/languages/c#.md) 
+* [GO](https://github.com/Dayvison45/Programap/blob/main/languages/go.md) 
 
 ## EVENTOS TEMPORARIOS
 * [Samsung OCEAN](http://oceanbrasil.com/online/) :Todo dia tenha acesso a diversas aulas e palestras com certificados online gratis 
