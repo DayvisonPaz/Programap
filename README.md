@@ -7,7 +7,7 @@ Ao aprender a arte de programar, existem alguns sites úteis e conteudos ótimo 
 # NAO SABE POR ONDE COMEÇAR?
 o que é preciso ter antes de programar?
 
-## [APRENDA COMO COMEÇAR A PROGRAMAR AQUI](https://github.com/Dayvison45/Programap/blob/main/programming.md)
+## [APRENDA COMO COMEÇAR A PROGRAMAR AQUI](https://github.com/Dayvison45/Programap/blob/main/languages/programming.md)
 
 # DECRIÇÃO & CONTEUDOS
 * [HTML E CSS](https://github.com/Dayvison45/Programap/blob/main/languages/html%26css.md)
@@ -18,7 +18,7 @@ o que é preciso ter antes de programar?
 * [PHP](https://github.com/Dayvison45/Programap/blob/main/languages/php.md)
 * [C](https://github.com/Dayvison45/Programap/blob/main/languages/c.md) 
 * [C++](https://github.com/Dayvison45/Programap/blob/main/languages/c++.md) 
-* [C#](https://github.com/Dayvison45/Programap/blob/main/languages/c#.md) 
+* [C#](https://github.com/Dayvison45/Programap/blob/main/languages/c%23.md) 
 * [GO](https://github.com/Dayvison45/Programap/blob/main/languages/go.md) 
 
 ## EVENTOS TEMPORARIOS
