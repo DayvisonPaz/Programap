@@ -33,7 +33,7 @@ O que é preciso ter antes de programar?
  # CURSOS  EM PORTUGUÊS
 
 - [ESCOLA VIRTUAL BRADESCO](https://www.ev.org.br/cursos/): Tenha acesso a uma variedade de cursos sobre programação e tecnologia gratuitos com certificados. (certificado gratuito)
-- [CURSO EM VIDE](https://www.cursoemvideo.com/cursos/)O: Tenha acesso a cursos exemplares de diversas linguaguens e elementos da programação. (certificado pago)
+- [CURSO EM VIDE](https://www.cursoemvideo.com/cursos/)O: Tenha acesso a cursos exemplares de diversas linguagens e elementos da programação. (certificado pago)
 - [TIM TEC](https://cursos.timtec.com.br/courses): Cursos e certificados gratuitos para quem deseja iniciar na 
 programação. (certificado gratuito)
 - [FUNDAÇÃO GETULIO VARGAS](https://educacao-executiva.fgv.br/cursos/gratuitos?area-conhecimento=571&serie=All&sort_by=title&items_per_page=10&mail_address_me=): Tenha acesso a diversos cursos de diversas áreas gratuitos certificados. (certificado gratuito)
@@ -41,6 +41,7 @@ programação. (certificado gratuito)
 - [COURSERA](https://www.coursera.org/courses?query=free): Aprenda sobre diversas áreas com cursos gratuitos. (certificado pago)
 
 # EM INGLÊS
+
 - [BITDEGREE](https://www.bitdegree.org/courses?price=free_courses): Tenha acesso a cursos gratuitos de diversas áreas. (certificado pago)
 - [FREECODECAMP](https://www.freecodecamp.org/learn/responsive-web-design/): aprenda a programar com esses cursos gratuitos de diversas áreas, com certificados. (certificado gratuito)
 - [ODIN PROJECT](https://www.theodinproject.com/): Aprenda a programar com diversos conteúdos sobre como se tornar full stack. 	
@@ -51,8 +52,8 @@ programação. (certificado gratuito)
 
 # Ferramentas em geral
 
-- [Stack Overflow ](https://pt.stackoverflow.com/): Site de perguntas e respostas para profissionais e entusiastas na área de programação de computadores. É o principal site de resolução de problemas.
-- [Stack Exchange ](https://portuguese.stackexchange.com/): Stack Exchange é a combinação de Stack Overflow e mais de 170 sites onde você pode obter qualquer tipo de ajuda.
+- [Stack Overflow](https://pt.stackoverflow.com/): Site de perguntas e respostas para profissionais e entusiastas na área de programação de computadores. É o principal site de resolução de problemas.
+- [Stack Exchange](https://portuguese.stackexchange.com/): Stack Exchange é a combinação de Stack Overflow e mais de 170 sites onde você pode obter qualquer tipo de ajuda.
 - [CodePen](https://codepen.io): Desenvolvedor Front End Playground & Code Editor no Navegador.
 - [Diagrams.net](https://app.diagrams.net/): Ferramenta para criação de diagramas e muito mais.
 - [FreeFor.Dev](https://free-for.dev/#/): Uma enorme lista de recursos e ferramentas gratuitas.
@@ -79,8 +80,8 @@ programação. (certificado gratuito)
 - [DEV SAMURAI](https://www.youtube.com/c/DevsamuraiBr)
 
 ## SITES QUE DEVERIA DAR UMA OLHADA
-- [SOLO LEARN](https://www.sololearn.com/learning): Site simples e didádico para quem quer aprender, contem cursos de diversas áreas. 
-- [HACKR](https://hackr.io/): Site que ajuda em encontar diversos cursos e conteúdos de programação.
+- [SOLO LEARN](https://www.sololearn.com/learning): Site simples e didático para quem quer aprender, contem cursos de diversas áreas. 
+- [HACKR](https://hackr.io/): Site que ajuda em encontrar diversos cursos e conteúdos de programação.
 - [Free Books Github:](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-pt_BR.html): Tenha acesso a vários livros e conteúdos do mundo da programação.
 - [HACKERNOON](https://hackernoon.com/): Site com diversas notícias do mundo da tecnologia, conteúdos e cursos.
 - [Doe-um-Livro](https://github.com/frontendbr/doe-um-livro/issues): Tenha acesso a diversos livros.
@@ -88,9 +89,9 @@ programação. (certificado gratuito)
 
 ## FERRAMENTAS QUE VOCÊ PODE PRECISAR
 - [Mockaroo](https://mockaroo.com/): Fornece uma maneira simples de gerar um monte de dados de teste realistas. Você pode escolher entre mais de 140 tipos diferentes de dados falsos.
-- [APIS PUBLICS](https://github.com/public-apis/public-apis): Tenha acesso a diversas APIS de diferenets tipos.
+- [APIS PUBLICS](https://github.com/public-apis/public-apis): Tenha acesso a diversas APIS de diferentes tipos.
 - [Dev Docs](http://devdocs.io): É um aplicativo de código aberto de uma página que permite pesquisar documentação de todas as linguagens e frameworks de programação populares.
-- [CodePNG](https://www.codepng.app/): Faça print bonitos de seus codigos e compartilhe-os. 
+- [CodePNG](https://www.codepng.app/): Faça print bonitos de seus códigos e compartilhe-os. 
 - [Kaggle](https://www.kaggle.com/): Acesse GPUs gratuitas e um enorme repositório de dados e códigos publicados pela comunidade.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): Um lugar com toda a documentação dos padrões web.
 - [Coolors](https://coolors.co/): Crie a paleta perfeita ou inspire-se em milhares de belos esquemas de cores.
@@ -120,7 +121,7 @@ programação. (certificado gratuito)
 # Sites de Código Aberto
 
 - [Open Hatch](https://openhatch.org): OpenHatch é uma organização sem fins lucrativos dedicada a combinar potenciais colaboradores de software livre com comunidades, ferramentas e educação.
-- [Source Forge](https://sourceforge.net): SourceForge hospeda maise 280.000 projetos. Atende mais de 2 milhões de downloads por dia e inclui aplicativos e ferramentas em uma ampla variedade de categorias.
+- [Source Forge](https://sourceforge.net): SourceForge hospeda mais de 280.000 projetos. Atende mais de 2 milhões de downloads por dia e inclui aplicativos e ferramentas em uma ampla variedade de categorias.
 - [Google Code](https://code.google.com/projecthosting): O Google oferece hospedagem gratuita para projetos de código aberto usando os sistemas de controle de versão Subversa ou Mercurial. Ele oferece 2 GB de armazenamento, ferramentas integradas de revisão de código, uma wiki e um rastreador de problemas. O site do Google Code também fornece links para as muitas APIs disponíveis publicamente do Google e outras ferramentas de desenvolvedor.
 
 - [Google Open Source](https://opensource.google.com): Google Open Source.
